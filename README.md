@@ -62,6 +62,8 @@ pip install numpy pandas matplotlib scipy tqdm torch torchvision torchaudio tran
 
 # Install DISCOVER tool (Required for reading .stream and .stream~ files)
 pip install git+https://github.com/hcmlab/discover
+# if `metadata-generation-failed` error is thrown, this installs the library but ignores the "NumPy < 2.0" rule
+pip install git+https://github.com/hcmlab/discover --no-deps 
 ```
 
 > **Note for Windows Users:** To use the **NOVA** tool for manual session annotation and visualization, please refer to the [NOVA repository](https://github.com/hcmlab/nova).
@@ -79,7 +81,7 @@ pip install git+https://github.com/hcmlab/discover
 └── src/                                     # Source code for prediction models
 ```
 
-## 👥 Contributors
+## Contributors
 
 * **Research Team:** Lado Turmanidze, Luka Javakhisvhili, Mariam Gadelia, Keso Chikhladze
 * **Supervisors:** Dr. Philipp Müller, Beso Mikaberidze
