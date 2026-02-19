@@ -4,7 +4,7 @@ This repository contains the codebase for the **Multi-Modal Social Behaviour Ana
 
 ## Project Overview
 
-The project focuses on predicting and analyzing social behavior—specifically centered on **personalization** - in dyadic and group interactions. We utilize the datasets provided by the [MultiMediate Challenge](https://multimediate-challenge.org/), which involve expert-novice dynamics across diverse cultural and linguistic backgrounds.
+The project focuses on predicting and analyzing social behavior - specifically centered on **personalization** - in dyadic and group interactions. We utilize the datasets provided by the [MultiMediate Challenge](https://multimediate-challenge.org/), which involve expert-novice dynamics across diverse cultural and linguistic backgrounds.
 
 ### Datasets Description
 
