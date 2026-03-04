@@ -121,8 +121,6 @@ pip install --upgrade pip
 pip install numpy pandas matplotlib scipy tqdm torch torchvision torchaudio transformers
 ```
 
-> **Note for Windows Users:** To use the **NOVA** tool for manual session annotation and visualization, please refer to the [NOVA repository](https://github.com/hcmlab/nova).
-
 ## Repository Structure
 
 ```
